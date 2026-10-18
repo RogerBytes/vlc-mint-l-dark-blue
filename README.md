@@ -46,6 +46,12 @@ Move it to VLC's user skins folder (VLC finds skins there on its own):
 mkdir -p ~/.local/share/vlc/skins2 && mv Mint-L-Dark-Blue*.vlt ~/.local/share/vlc/skins2/
 ```
 
+Alternativly, you can install it on system
+
+```bash
+sudo cp Mint-L-Dark-Blue.vlt /usr/share/vlc/skins2/default.vlt
+```
+
 Then enable it in VLC:
 
 1. Open **Tools → Preferences → Interface**.
