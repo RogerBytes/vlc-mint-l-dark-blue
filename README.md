@@ -142,3 +142,4 @@ This project was developed with the help of an AI (Claude, by Anthropic). The au
 
 <p align="right"><a href="#mint-l-dark-blue-for-vlc">🔝 Back to top</a></p>
 Premier commit effectué
+Premier commit effectué
