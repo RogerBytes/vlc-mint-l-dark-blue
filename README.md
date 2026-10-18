@@ -140,12 +140,10 @@ This skin is licensed under GPL-3.0 (see [`LICENSE`](LICENSE)), like the project
 [**RogerBytes (Harry Richmond)**](https://github.com/RogerBytes)
 
 This project was developed with the help of an AI (Claude, by Anthropic). The author decides what it does, tests it and maintains it.
-
 <span hidden>
 <details><summary></summary>
 <style>.spoiler{border-left:4px solid #1abc9c;border-bottom-left-radius:3px;padding-left:10px;padding-top:15px;margin-top:-10px;margin-bottom:15px}.button{cursor:pointer;padding:5px 10px;background-color:#3498db;color:white;border-radius:3px;margin-bottom:5px;display:inline-block;transition:background-color 0.2s}.button:hover{background-color:#217dbb}details[open] .button{background-color:#1abc9c}</style>
 </details></span>
 
 <p align="right"><a href="#mint-l-dark-blue-for-vlc">🔝 Back to top</a></p>
-Premier commit effectué
-Premier commit effectué
+
